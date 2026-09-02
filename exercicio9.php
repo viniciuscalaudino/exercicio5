@@ -10,3 +10,7 @@ $letras = [
     'G', 
     'H'
 ];
+
+array_splice($letras, 2, 5);
+
+print_r($letras);
