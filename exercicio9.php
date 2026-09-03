@@ -11,6 +11,6 @@ $letras = [
     'H'
 ];
 
-array_splice($letras, 2, 5);
+array_splice($letras, 0, 2);
 
 print_r($letras);
